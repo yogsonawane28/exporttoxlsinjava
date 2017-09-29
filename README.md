@@ -1,7 +1,3 @@
-# exporttoxlsinjava
-Export top XLS &amp; CSV in Java
+Export data to Excel using JAVA and Apache POI API
 
-This projects demonstrate how you could export the data in xls or csv using java at backend.
-
-We do have some plugins to implement export at front end using java but that may not always serve the purpose.
-
+I will explain how to export data from database to an excel sheet in JAVA. There are several methods available using which we can export data to an excel sheet. I have used Apache’s POI API to export database table data to excel sheet. 
